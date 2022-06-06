@@ -1,7 +1,7 @@
 {
   "name": "react-notes-app",
   "version": "1.0.0",
-  "description": "Pure frontend to do list with deadlines organised by nearest date.  \n  \nPure frontend notes app made with React. \n\n User can add notes, delete notes, click to expand note in a modal, click to edit and auto-saves.",
+  "description": "",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
