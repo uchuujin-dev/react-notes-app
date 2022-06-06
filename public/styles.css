@@ -30,8 +30,7 @@ main {
   margin-left: 0;
   margin-right: 0;
   margin-bottom: 50px;
-  width: 100%;
-  /* display: flex; */
+  width: 100vw;
   align-items: center;
   justify-content: center;
 }
@@ -110,6 +109,7 @@ form.create-note {
   .note {
     float: center;
     width: 75vw;
+    position: center;
   }
   form.create-note {
     width: 80vw;
